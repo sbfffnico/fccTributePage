@@ -1,0 +1,143 @@
+body {
+  background-color: black;  
+  color : white;
+}
+
+#main {
+  text-align: center;
+  background-color: #1a1a1a;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+  margin: auto;
+  min-width: 50%;
+  max-width: 540px;
+}
+
+#title {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#img-div {
+  background-color: #333333;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  padding-top: 1%;
+}
+
+#img-caption {
+  line-height: 1%;
+  font-family: "Courier New", Courier, monospace;
+  color: ;
+}
+
+#tribute-info {
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+#timeline-list {
+  text-align: left;
+  line-height: 30px;
+  margin: 0 auto 50px auto;
+  max-width: 420px;
+}
+
+#tribute-link {
+  color: red;
+}
+
+/*
+  // Original #main and #timeline-list
+  
+#main {
+  text-align: center;
+  background-color: #1a1a1a;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+#timeline-list {
+  text-align: left;
+  line-height: 30px;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+  
+*/
+/*
+@media only screen and (max-width: 1496px) {
+  #main {
+    //margin-left: 25%;
+    //margin-right: 25%;
+    //min-width: 50%;
+    background-color: blue;
+  }
+  
+  #timeline-list {
+    //margin-left: 0%;
+    //margin-right: 0%;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  #main {
+    //margin-left: 7.5%;
+    //margin-right: 7.5%;
+    //min-width: 50%;
+    background-color: green;
+  }
+  
+  #timeline-list {
+    //margin-left: 0%;
+    //margin-right: 0%;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  #main {
+    //margin-left: 7.5%;
+    //margin-right: 7.5%;
+    //min-width: 50%;
+    background-color: darkgray;
+  }
+  
+  #timeline-list {
+    //margin-left: 0%;
+    //margin-right: 0%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  #main {
+    //margin-left: 5%;
+    //margin-right: 5%;
+    //min-width: 50%;
+    background-color: red;
+  }
+  
+  #timeline-list {
+    //margin-left: 0%;
+    //margin-right: 0%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  #main {
+    //margin-left: 2.5%;
+    //margin-right: 2.5%;
+    //min-width: 90%;
+    background-color: #1a1a1a;
+  }
+  
+  #timeline-list {
+    //margin-left: 0%;
+    //margin-right: 0%;
+  }
+}
+*/
